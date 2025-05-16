@@ -109,10 +109,10 @@ const FeedingApp = () => {
             <Baby className="w-8 h-8 text-purple-600" />
           </div>
           <h1 className="text-3xl font-bold text-gray-800 mb-2">
-            Alianna's Feeding Routine
+            Alianna&apos;s Feeding Routine
           </h1>
           <p className="text-gray-600">
-            Track Alianna's daily nutrition schedule
+            Track Alianna&apos;s daily nutrition schedule
           </p>
         </header>
 
@@ -151,7 +151,7 @@ const FeedingApp = () => {
         <div className="bg-white rounded-xl shadow-sm border border-gray-100">
           <div className="p-6 border-b border-gray-100">
             <h2 className="text-xl font-semibold text-gray-800">
-              Alianna's Feeding Log Today
+              Alianna&apos;s Feeding Log Today
             </h2>
           </div>
           
@@ -216,7 +216,7 @@ const FeedingApp = () => {
 
         <footer className="text-center mt-8 py-6">
           <p className="text-gray-500 text-sm">
-            Made with 💝 for Alianna's healthy nutrition
+            Made with 💝 for Alianna&apos;s healthy nutrition
           </p>
         </footer>
       </div>
